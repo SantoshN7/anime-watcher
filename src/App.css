@@ -1,4 +1,4 @@
 #root {
-  @apply flex-col;
+  @apply flex flex-col;
 }
 
